@@ -1,5 +1,5 @@
 FROM node:9
-
+#chutya
 WORKDIR /app
 
 RUN npm install -g contentful-cli

@@ -1,4 +1,4 @@
-## The node.js example app ok not
+## The node.js example app ok 
 
 [![CircleCI](https://img.shields.io/circleci/project/github/contentful/the-example-app.nodejs.svg)](https://circleci.com/gh/contentful/the-example-app.nodejs)
 

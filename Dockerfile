@@ -1,7 +1,7 @@
 FROM node:9
 
 WORKDIR /app
-#noob
+
 RUN npm install -g contentful-cli
 
 COPY package.json .
